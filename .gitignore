@@ -2,3 +2,5 @@
 .vsconfig
 [Ll]ibrary
 [Tt]emp
+[Ll]ogs
+obj\
